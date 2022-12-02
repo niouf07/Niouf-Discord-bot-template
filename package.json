@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "discord bot template github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niouf07/Niouf-Discord-bot-template.git"
+  },
+  "author": "Niouf_",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niouf07/Niouf-Discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/niouf07/Niouf-Discord-bot-template#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
